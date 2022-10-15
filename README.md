@@ -11,3 +11,7 @@
 4. 게시글 수정
 5. 게시글 삭제
 6. 게시글 비밀번호 확인
+
+# PracSpringCRUD02
+- 서비스 추가 / timestamped 추가
+- Controller - Servid - Repository
