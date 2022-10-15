@@ -42,8 +42,7 @@ public class PostController {
     // 4. 게시글 수정
     @PutMapping("/posts/{id}")
     //id값을 갖고 repository에 save하면 해당 id값에 추가
-    public Post updatePost(@PathVariable("id") Long id, @RequestBody RequestDto requestDto){
-        Post post = new Post(requestDto);
+    public Post updatePost(@PathVariable("id") Long id, @RequestBody Post post){
         post.setId(id);
         postRepository.save(post);
         return post;
