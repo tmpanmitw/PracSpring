@@ -1,2 +1,13 @@
 # PracSpring
 스프링 각종 기능 구현 연습
+
+
+# PracSpringCRUD01
+- 최소한의 객체로 기능만을 구현
+- Controller - Repository
+1. 게시글 작성
+2. 게시글 전체 조회
+3. 게시글 조회 by Id
+4. 게시글 수정
+5. 게시글 삭제
+6. 게시글 비밀번호 확인
