@@ -2,6 +2,7 @@
 스프링 각종 기능 구현 연습
 
 
+
 # PracSpringCRUD01
 - 최소한의 객체로 기능만을 구현
 - Controller - Repository
@@ -12,6 +13,12 @@
 5. 게시글 삭제
 6. 게시글 비밀번호 확인
 
+
 # PracSpringCRUD02
 - Service 추가 / timestamped 추가
 - Controller - Service - Repository
+
+
+# PracSpringCRUD03
+- RequestDto 추가 / ResponseDto 추가
+- Controller - Service - RequestDto/ResponseDto - Entity - Repository
