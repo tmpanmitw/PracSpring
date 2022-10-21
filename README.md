@@ -22,3 +22,9 @@
 # PracSpringCRUD03
 - RequestDto 추가 / ResponseDto 추가
 - Controller - Service - RequestDto/ResponseDto - Entity - Repository
+
+
+# PracSpringSecurity01
+- Spring Security Framework 를 이용
+- 회원가입 / 로그인 기능 구현
+- Session / Cookie 방식으로 구현
