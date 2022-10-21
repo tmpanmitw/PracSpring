@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>회원가입 페이지</title>
+</head>
+<body>
+<h1>회원가입 페이지</h1>
+<hr/>
+<!--form action : 폼을 전송할 서버쪽 스크립트 파일을 지정-->
+<!--       method : 폼을 서버에 전송할 http 메소드(GET or POST)-->
+<form action="/join" method="POST">
+  <input type="text" name="username" placeholder="Username"/><br/>
+  <input type="password" name="password" placeholder="Password"/><br/>
+  <input type="email" name="email" placeholder="Email"/><br/>
+  <button>회원가입</button>
+</form>
+</body>
+</html>
