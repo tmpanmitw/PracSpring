@@ -1,0 +1,10 @@
+spring:
+  h2:
+    console:
+      enabled: 'true'
+      settings:
+        web-allow-others: 'true'
+  datasource:
+    username: sa
+    url: jdbc:h2:mem:testdb
+    password: ''
