@@ -3,7 +3,7 @@
 
 
 
-# PracSpringCRUD01
+## PracSpringCRUD01
 - 최소한의 객체로 기능만을 구현
 - Controller - Repository
 1. 게시글 작성
@@ -14,23 +14,23 @@
 6. 게시글 비밀번호 확인
 
 
-# PracSpringCRUD02
+## PracSpringCRUD02
 - Service 추가 / timestamped 추가
 - Controller - Service - Repository
 
 
-# PracSpringCRUD03
+## PracSpringCRUD03
 - RequestDto 추가 / ResponseDto 추가
 - Controller - Service - RequestDto/ResponseDto - Entity - Repository
 
 
-# PracSpringSecurity01
+## PracSpringSecurity01
 - Spring Security Framework 를 이용
 - 회원가입 / 로그인 기능 구현
 - Session / Cookie 방식으로 구현
 
 
-# PracSpringAll
+## PracSpringAll
 - 구현 가능한 기능을 활용한 개인프로젝트
 - 학습한 Spring 기능들을 모두 활용한 개인프로젝트 구현을 목표
 - 기능이 추가될 때마다 상시 업로드
