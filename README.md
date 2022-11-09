@@ -28,3 +28,9 @@
 - Spring Security Framework 를 이용
 - 회원가입 / 로그인 기능 구현
 - Session / Cookie 방식으로 구현
+
+
+# PracSpringAll
+- 구현 가능한 기능을 활용한 개인프로젝트
+- 학습한 Spring 기능들을 모두 활용한 개인프로젝트 구현을 목표
+- 기능이 추가될 때마다 상시 업로드
