@@ -35,6 +35,6 @@
 - 학습한 Spring 기능들을 모두 활용한 개인프로젝트 구현을 목표
 - 기능이 추가될 때마다 상시 업로드
 
-##PracSpringSocketio
+## PracSpringSocketio
 - socketio 라이브러리를 이용한 간단한 채팅기능 구현
 - ref : https://medium.com/folksdev/spring-boot-netty-socket-io-example-3f21fcc1147d
